@@ -1,6 +1,9 @@
-function magic() {
-    return x = 1, [], {};
+function interviewTip() {
+    return
+    {
+      value:"key"
+    }
   }
   
-  console.log(magic());
+  console.log(interviewTip());
   

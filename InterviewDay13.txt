@@ -1,0 +1,12 @@
+Top 10 JavaScript Interview Question
+
+- [ ] What are the different data types in JavaScript? 
+- [ ] What is hoisting in JavaScript? 
+- [ ] What is the difference between null and undefined?
+- [ ] What is a closure in JavaScript? 
+- [ ] Explain the event loop and how it works.
+- [ ] What is a callback function in JavaScript? 
+- [ ] What are Promises, and how do they work? 
+- [ ] What is the purpose of async/await in JavaScript? 
+- [ ] What is the difference between == and === in JavaScript? 
+- [ ] What are arrow functions, and how do they differ from traditional functions? 

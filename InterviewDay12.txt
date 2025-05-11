@@ -1,0 +1,12 @@
+Top 10 ReactJS Interview Question
+
+- [ ] What is JSX?
+- [ ] State vs. Props: What’s the difference?
+- [ ] How does the Virtual DOM work?
+- [ ] What are React Hooks?
+- [ ] Explain useEffect and its dependency array.
+- [ ] How do you optimize React performance?
+- [ ] What is an Error Boundary in ReactJS?
+- [ ] What are Render Props?
+- [ ] What is Context API and when would you use it?
+- [ ] How do you test React components?
